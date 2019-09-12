@@ -1,2 +1,2 @@
-# PGL-Docs
+# PLG-Docs
 Documentação do projeto
