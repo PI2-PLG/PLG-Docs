@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/320055834/Documents/EAGLE/projects/PI_2_Agora_Vai/placa_sensores.sch at 15/11/2019 11:31
+
+Qty Value                Device               Package              Parts  Description                                                         
+1                        DB9F                 D-09F                CON1                                                                       
+1   GAS-SENSOR-MQ2       GAS-SENSOR-MQ2       GAS-SENSOR-MQ2       MQ135  Gas Sensor based on MQ-2 device                                     
+1   TEMP-HUM-PRES-BME280 TEMP-HUM-PRES-BME280 TEMP-HUM-PRES-BME280 BME280 Digital Humidity-Temperature-Pressure Sensor based on BME280 device 

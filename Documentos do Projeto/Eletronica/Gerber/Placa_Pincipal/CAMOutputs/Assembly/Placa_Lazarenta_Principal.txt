@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/320055834/Documents/EAGLE/projects/PI_2_Agora_Vai/Placa_Lazarenta_Principal.sch at 15/11/2019 10:31
+
+Qty Value              Device             Package            Parts Description                               MF MPN OC_FARNELL OC_NEWARK POPULARITY
+1                      JACK-PLUG1         SPC4078            JACK4 DC POWER JACK                                    unknown    unknown   3         
+1   22uF               C2.5/4             C2.5-4             C1    CAPACITOR                                                             6         
+1   DB9                DB9F               D-09F              CON1                                                                                  
+1   GPS-RECEIVER-NEO6M GPS-RECEIVER-NEO6M GPS-RECEIVER-NEO6M U$1   GPS Receiver Module based on NEO-6 device                                       
+1   REG-AMS1117-3.3V   REG-AMS1117-3.3V   REG-AMS1117        U$2   Linear Regulator based on AMS1117 chip                                          
+1   WIFI-LORA-32       WIFI-LORA-32       2.54MM_2X18        U$3                                                                                   

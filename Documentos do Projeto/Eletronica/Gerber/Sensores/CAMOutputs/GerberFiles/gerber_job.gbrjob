@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-15T14:30:55Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "placa_sensores"
+        },
+        "Owner": "Alexandre Junior <alexandre_25895@hotmail.com>",
+        "Size": {
+            "X": 57.13,
+            "Y": 70.79
+        }
+    }
+}
