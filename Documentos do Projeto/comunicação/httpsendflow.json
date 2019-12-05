@@ -1,0 +1,1 @@
+[{"id":"8951cb53.5ef7e8","type":"inject","z":"d45b8346.58b9c","name":"jogero","topic":"esp/test","payload":"closed","payloadType":"str","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":150,"y":160,"wires":[[]]}]
